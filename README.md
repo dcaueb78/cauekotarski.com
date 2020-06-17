@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ravan.me">
-    <img alt="ravan.me" src="content/assets/icon.png" width="60" />
+  <a href="https://cauekotarski.com">
+    <img alt="cauekotarski.com" src="content/assets/icon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Ravan Scafi's personal website.
+  Cauê Kotarski's personal website.
 </h1>
 
 <p align="center">
@@ -22,16 +22,17 @@
   </a>
 </p>
 
-This website is built with Node.js, JavaScript, React.js and Gatsby.
-It uses a static generator, so you can build it and deploy only the static files.
-It is currently hosted at [https://ravan.me](https://ravan.me).
+This website is built with Node.js, JavaScript, React.js and Gatsby. It uses a
+static generator, so you can build it and deploy only the static files. It is
+currently hosted at [https://ravan.me](https://ravan.me).
 
 ## Contributing
 
 First, fork the repository and clone it.
 
-Next, you will need [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/).
-Run the command below to fetch the dependencies and spin up a local web-server.
+Next, you will need [Node.js](https://nodejs.org/) and
+[Yarn](https://yarnpkg.com/). Run the command below to fetch the dependencies
+and spin up a local web-server.
 
 ```bash
 yarn start
