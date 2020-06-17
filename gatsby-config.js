@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Ravan Scafi`,
-    author: `Ravan Scafi`,
-    description: `Ravan Scafi's personal website.`,
-    siteUrl: `https://ravan.me`,
+    title: `Cauê Kotarski`,
+    author: `Cauê Kotarski`,
+    description: `Cauê Kotarski's personal website.`,
+    siteUrl: `https:/cauekotarski.com`,
     repository: {
       name: "GitHub",
-      url: "https://github.com/ravanscafi/ravan.me",
+      url: "https://github.com/dcaueb78/cauekotarski.com",
     },
     social: {
-      twitter: `ravanscafi`,
-      github: `ravanscafi`,
-      exercism: `ravanscafi`,
-      linkedin: `ravanscafi`,
+      twitter: `dcaueb78`,
+      github: `dcaueb78`,
+      exercism: `dcaueb78`,
+      linkedin: `cauekotarski`,
       stackoverflow: `804741/ravan-scafi`,
     },
   },
@@ -139,8 +139,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Ravan Scafi`,
-        short_name: `ravan.me`,
+        name: `Cauê Kotarski`,
+        short_name: `cauekotarski.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#373435`,
@@ -162,14 +162,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://ravan.me`,
+        siteUrl: `https://cauekotarski.com`,
         stripQueryString: true,
       },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `ravan-me`,
+        shortname: `cauekotarski-com`,
       },
     },
   ],

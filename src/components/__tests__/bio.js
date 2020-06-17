@@ -19,13 +19,13 @@ beforeEach(() => {
     },
     site: {
       siteMetadata: {
-        author: "Ravan Scafi",
+        author: "Cauê Kotarski",
         social: {
-          twitter: "ravanscafi",
-          github: "ravanscafi",
-          exercism: "ravanscafi",
-          linkedin: "ravanscafi",
-          stackoverflow: "804741/ravan-scafi",
+          twitter: "dcaueb78",
+          github: "dcaueb78",
+          exercism: "dcaueb78",
+          linkedin: "cauekotarski",
+          stackoverflow: "13763981/cauê-kotarski",
         },
       },
     },
